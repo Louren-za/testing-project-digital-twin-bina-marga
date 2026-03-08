@@ -2,8 +2,8 @@
 
 Road & Bridge Infrastructure Visualization Dashboard.
 
-🔗 **Live Demo**: [digital-twin-bina-marga.vercel.app](https://digital-twin-bina-marga.vercel.app)  
-📁 **Repository**: [github.com/Louren-za/testing-project-digital-twin-bina-marga](https://github.com/Louren-za/testing-project-digital-twin-bina-marga)
+**Live Demo**: [digital-twin-bina-marga.vercel.app](https://digital-twin-bina-marga.vercel.app)  
+**Repository**: [github.com/Louren-za/testing-project-digital-twin-bina-marga](https://github.com/Louren-za/testing-project-digital-twin-bina-marga)
 
 ---
 
